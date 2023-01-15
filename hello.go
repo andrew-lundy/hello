@@ -2,7 +2,7 @@
 package main
 
 import (
-	"example.com/greetings"
+	//"github.com/andrew-lundy/greetings"
 
 	"fmt"
 	"log"
