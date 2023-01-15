@@ -13,8 +13,8 @@ func main() {
 	log.SetFlags(0)
 
 	names := []string{"Andrew", "Samantha", "Darrin"}
-
 	messages, err := greetings.Hellos(names)
+
 	if err != nil {
 		log.Fatal(err)
 	}
